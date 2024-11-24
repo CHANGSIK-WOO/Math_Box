@@ -1,4 +1,4 @@
-# 기본 계산기
+# 기본 계산기 - 수정
 def add(a, b):
 	return a+b
 
